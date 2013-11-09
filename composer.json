@@ -5,6 +5,7 @@
     "description": "XOOPS dummy module for testing",
     "require": {
         "php": ">=5.3.7",
-        "composer/installers": "~1.0"
+        "composer/installers": "~1.0",
+        "guzzle/guzzle": "v3.7.4"
     }
 }
