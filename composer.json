@@ -1,0 +1,16 @@
+{
+    "name": "geekwright/dummy",
+    "license": "GPL-2.0+",
+    "type": "xoops-module",
+    "description": "XOOPS dummy module for testing",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/geekwright/installers"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.7",
+        "composer/installers": "dev-xoops"
+    }
+}
