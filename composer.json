@@ -11,6 +11,6 @@
     ],
     "require": {
         "php": ">=5.3.7",
-        "composer/installers": "dev-xoops"
+        "composer/installers": "xoops"
     }
 }
