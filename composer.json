@@ -5,6 +5,6 @@
     "description": "XOOPS dummy module for testing",
     "require": {
         "php": ">=5.3.7",
-        "geekwright/module-installer-plugin": "*"
+        "geekwright/module-installer-plugin": "dev-master"
     }
 }
