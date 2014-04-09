@@ -9,8 +9,8 @@
  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
  */
 
-$modversion['dirname'] = basename(dirname(__FILE__));
-$modversion['name'] = ucfirst(basename(dirname(__FILE__)));
+$modversion['dirname'] = basename(__DIR__);
+$modversion['name'] = ucfirst(basename(__DIR__));
 $modversion['version'] = '1.0';
 $modversion['description'] = 'This is a dummy module.';
 $modversion['author'] = 'No Won';
@@ -19,7 +19,7 @@ $modversion['help'] = 'page=help';
 $modversion['license'] = 'GNU GPL 2 or later';
 $modversion['license_url'] = 'http://www.gnu.org/licenses/old-licenses/gpl-2.0.html';
 $modversion['official'] = 0;
-$modversion['image'] = 'images/dummy.png';
+$modversion['image'] = 'icons/dummy.png';
 
 $modversion['hasMain'] = false;
 
