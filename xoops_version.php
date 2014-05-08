@@ -13,7 +13,7 @@ $modversion['dirname'] = basename(__DIR__);
 $modversion['name'] = ucfirst(basename(__DIR__));
 $modversion['version'] = '1.0';
 $modversion['description'] = 'This is a dummy module.';
-$modversion['author'] = 'No Won';
+$modversion['author'] = 'No One';
 $modversion['credits'] = 'nobody@localhost';
 $modversion['help'] = 'page=help';
 $modversion['license'] = 'GNU GPL 2 or later';

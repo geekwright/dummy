@@ -4,7 +4,6 @@
     "type": "xoops-module",
     "description": "XOOPS dummy module for testing",
     "require": {
-        "php": ">=5.3.7",
-        "geekwright/module-installer-plugin": "dev-master"
+        "geekwright/module-installer-plugin": "~1.0"
     }
 }
