@@ -4,6 +4,6 @@
     "type": "xoops-module",
     "description": "XOOPS dummy module for testing",
     "require": {
-        "geekwright/module-installer-plugin": "~1.0"
+        "XOOPS/module-installer-plugin": "~1.0"
     }
 }
